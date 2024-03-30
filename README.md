@@ -23,7 +23,7 @@ Contributors
             <td><a href="https://github.com/CraziiIvan"><img src="https://github.com/CraziiIvan.png" width="60px;"/></a></td>
            <td><a href="https://github.com/htooa2014"><img src="https://github.com/htooa2014.png" width="60px;"/></a></td>
            <td><a href="https://github.com/mr-kmh"><img src="https://github.com/mr-kmh.png" width="60px;"/></a></td>
-          <td><a href="https://github.com/htetahyan"><img src="https://github.com/htetahyan" width="60px;"/></a></td>
+          <td><a href="https://github.com/htetahyan"><img src="https://github.com/htetahyan.png" width="60px;"/></a></td>
            <td><a href="https://github.com/Kaung-Myat-Hun"><img src="https://github.com/Kaung-Myat-Hun.png" width="60px;"/></a></td>
         </tr>
     </tbody>
