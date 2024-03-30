@@ -1,4 +1,4 @@
-#### Hospital-Management-System
+## Hospital-Management-System
 
 > Hospital Management System မှာ အဓိက ရည်ရွယ်ချက်က ဆေးရုံမှာပြသ‌ချင်တဲ့ လူနာက ကြိုတင် ရက်ချိန်းယူလို့ရအောင် Hospital ဘက်က ဖုန်းနဲ့ လက်ခံပြီး ရက်ချိန်းတွေကို မှတ်သားနိုင်ဖို့ ဒီ System ကိုရေးသားထားခြင်းဖြစ်ပါတယ်
 
@@ -8,7 +8,7 @@ https://github.com/sannlynnhtun-coding/hospital_management_system_frontend
 Backend ကို ဒီကနေ စမ်းလို့ရပါတယ်
 https://github.com/sannlynnhtun-coding/hospital_management_system_backend
 
-Contributors
+## Contributors
 
 ### Frontend
 <table>
