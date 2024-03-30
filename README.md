@@ -5,8 +5,8 @@
  ---------------------------------
 
 Tech Stack
-Frontend - React, Vite, shadcn/ui
-backend - Node.js, Express.js, PostgreSQL
+- Frontend - React, Vite, shadcn/ui
+- Backend - Node.js, Express.js, PostgreSQL
 
 Frontend Repository ကို ဒီ [Link](https://github.com/sannlynnhtun-coding/hospital_management_system_frontend) မှာ ကြည့်လို့ရပါတယ်
 Backend Repository ကို ဒီ [Link](https://github.com/sannlynnhtun-coding/hospital_management_system_backend) ကနေ စမ်းလို့ရပါတယ်
