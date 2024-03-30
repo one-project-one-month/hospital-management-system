@@ -104,9 +104,8 @@ Hospital Management System ကို ကိုလင်းရဲ့ ဦးဆေ
   Note      String
   Treatment String
 ```
-APIs
 
-### Title Disease
+### Disease
 > ရောဂါ အချက်အလက်သိမ်းဆည်းရန်၊ Medical Record တွင် Patient နဲ့ ချိတ်ဆက်ရန်
 ```
   Id             Int   
